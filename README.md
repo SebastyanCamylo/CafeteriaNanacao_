@@ -26,3 +26,5 @@ Puntos)
 café enviando un id en los parámetros que sea diferente al id dentro del payload.
 (3 Puntos)
 
+Instalar dependencias: npm i
+Correr proyecto con: npm run dev
